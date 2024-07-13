@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">unit converter</string>
+    <string name="welcome_to_unit_converter">Welcome to Unit Converter</string>
+    <string name="enter_in_kilograms">Enter in Kilograms</string>
+    <string name="convert">Convert</string>
+</resources>
